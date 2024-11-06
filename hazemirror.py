@@ -4,7 +4,7 @@ import shutil
 
 # file paths
 system_file = "/private/var/db/os_eligibility/eligibility.plist"
-replacement_file = "/Users/YOUR_USERNAME/Downloads/hazemirror/eligibility.plist"  # change "YOUR_USERNAME" to your user,if u don't know your user type whoami command and take the user from there
+replacement_file = "/Users/huimrres/Downloads/hazemirror/eligibility.plist"  # change "YOUR_USERNAME" to your user,if u don't know your user type whoami command and take the user from there
 
 
 # file change function
